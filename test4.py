@@ -13,3 +13,5 @@ leip
 dit is een aanpassing op mijn Daniel dev
 
 volgende aanpassing
+
+Dit stuur ik naar op master
