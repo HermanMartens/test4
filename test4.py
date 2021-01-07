@@ -9,3 +9,5 @@ test4
 
 Daniel zijn commit 
 leip
+
+dit is een aanpassing op mijn Daniel dev
