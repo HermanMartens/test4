@@ -18,6 +18,6 @@ Dit stuur ik naar op master
 
 Dit stuur ik naar branch op
 
-
+aanpassing Daniel op lijn 21
 
 aanpsassing Herman op lijn 23
